@@ -1,0 +1,1 @@
+{"groups":[{"slug":"web","locKey":"web","templates":["basic-web-app","large-web-app","virtual-machines-multi-tier-application","app-service-responsive-with-cache"],"apiUrl":"https://azure.microsoft.com/api/v2/templates/groups/web"}],"limit":40,"offset":0,"count":1,"totalCount":1}
